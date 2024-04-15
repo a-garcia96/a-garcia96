@@ -9,7 +9,7 @@
     <a href="https://algarcia.dev" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-green?style=for-the-badge&logo=googlechrome&logoColor=032b26&labelColor=79E7C7&color=2A303D" alt="portfolio badge"
   </a>
-    <a href="https://instagram.com/alex__gaarciaa" target="_blank" rel="noopener noreferrer">
+    <a href="https://instagram.com/alex_gaarciaa" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/instagram-green?style=for-the-badge&logo=instagram&logoColor=032b26&labelColor=79E7C7&color=2A303D" alt="Instagram Badge"/>
     </a>
 </div>
